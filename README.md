@@ -3,7 +3,7 @@
 </div>
 <h1>> Hello World!, I'm OdininHiddeti 👋</h1>
 <p align='center'>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=odininhiddeti.odininhiddeti "Visitors")
+<img src="https://visitor-badge.glitch.me/badge?page_id=OdininHiddeti.OdininHiddeti" alt="visitor badge"/>
 </p>
 <div size='20px'>Thank you for taking the time to view my GitHub profile.</div>
 <h2> About me</h2>
