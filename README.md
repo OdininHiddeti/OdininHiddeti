@@ -27,19 +27,21 @@ I am open to project ideas
 <img align="left" alt="Bootstrap 5" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/bootstrap.svg" />
 <img align="left" alt="Tailwind" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/tailwind.svg" />
 <img align="left" alt="Js" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" />
+<!-- <img align="left" alt="Ts" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/typescript.svg" /> -->
 <img align="left" alt="NodeJs" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/nodejs.svg" />
 <img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/express.svg" />
 <img align="left" alt="Vue" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/vuejs.svg" />
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/csharp.svg" />
 <img align="left" alt="Mongo" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mongodb.svg" />
-<img align="left" alt="Postgre" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postgresql.svg" />
+<img align="left" alt="PostgreSql" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postgresql.svg" />
+<img align="left" alt="MsSql" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpopdock.com%2Fwp-content%2Fuploads%2Fsql-server-logo.png&f=1&nofb=1" />
 <img align="left" alt="Manjaro Linux" width="40px" src="https://manjaro.org/img/logo.svg" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/git.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/docker.svg" />
+<img align="left" alt="Postman" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postman.svg" />
 
-<br>
-<hr>
+<br/><br/><br/><br/><hr/>
 
 <h2> Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="48px"></h2>
 
@@ -49,8 +51,6 @@ I am open to project ideas
 <!--
 # Hi there, I'm Serhat but you say Odin or OdininHiddeti(Thats mean Odin's fury) 👋
 **OdininHiddeti/OdininHiddeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" alt="Postman" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postman.svg" />
-<img align="left" alt="Npm" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/npm.svg" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
