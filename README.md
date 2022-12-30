@@ -35,7 +35,6 @@ I am open to project ideas
 <img align="left" alt="Mongo" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mongodb.svg" />
 <img align="left" alt="PostgreSql" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/postgresql.svg" />
 <img align="left" alt="MsSql" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpopdock.com%2Fwp-content%2Fuploads%2Fsql-server-logo.png&f=1&nofb=1" />
-<img align="left" alt="Manjaro Linux" width="40px" src="https://manjaro.org/img/logo.svg" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/git.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/docker.svg" />
